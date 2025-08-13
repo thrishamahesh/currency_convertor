@@ -33,8 +33,8 @@ A Java Swing-based desktop application for converting currencies in real-time us
 1. Clone the repository:
    ```bash
    git clone https://github.com/USERNAME/REPO_NAME.git
-   Open the project in your IDE or compile via command line:
 2. Open the project in your IDE or compile via command line:
+   ```bash
    javac ConverterFinal.java
    java ConverterFinal
 3. Use the GUI to enter the amount, select source and target currencies, and click Convert.
